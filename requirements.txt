@@ -1,3 +1,3 @@
-pip install azure-identity
-pip install azure-functions
-pip install azure-keyvault
+azure-identity
+azure-functions
+azure-keyvault
